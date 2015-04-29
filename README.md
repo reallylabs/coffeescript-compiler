@@ -11,3 +11,5 @@ import io.really.coffeescript._
 val compiler = new CoffeeScriptCompiler
 println(compiler.compile("a = 5"))
 ```
+
+Thanks for David Gageot for the inspiration http://blog.javabien.net/2014/02/19/use-nashorn-and-webjars-to-execute-javascript-server-side/
